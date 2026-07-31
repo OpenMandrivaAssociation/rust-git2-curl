@@ -6,8 +6,8 @@
 %global crate git2-curl
 
 Name:           rust-%{crate}
-Version:        0.12.0
-Release:        2%{?dist}
+Version:        0.22.0
+Release:        1%{?dist}
 Summary:        Backend for an HTTP transport in libgit2 powered by libcurl
 
 # Upstream license specification: MIT/Apache-2.0
